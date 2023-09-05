@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Kelani Sidikat Oyindamola # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi there, I am Kelani Sidikat Oyindamola 
   <br><br>
-  Second description 
+  An experienced Data Analyst with a strong track record in process optimization, business intelligence, inventorymanagement, and data analytics. Proficient in using Looker, Python, SAP ERP, SQL, and JavaScript.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Seeking new challenges to leverage expertise for quick, measurable results.
+  <br><br>
+  <a href="https://www.linkedin.com/in/sidikat-kelani-6755721b5/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
